@@ -1,73 +1,135 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🚀 Prabhat Sudhakar Kale – Portfolio Website
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+A modern, responsive, and interactive personal portfolio website built to showcase my projects, skills, experience, and achievements in **AI/ML and Full-Stack Development**.
 
-## How can I edit this code?
+This portfolio is designed with a **Blue & Purple tech theme**, **3D depth effects**, smooth animations, and automatic **dark/light mode** based on device preferences.
 
-There are several ways of editing your application.
+🔗 **Live Website:** *( link here)*
 
-**Use Lovable**
+📄 **Resume:** [https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link](https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+📁 **Certificates:** [https://drive.google.com/drive/folders/1p60Ur7J8Z39OJ7ZdkR0y45NlWGVpSLfm?usp=drive_link](https://drive.google.com/drive/folders/1p60Ur7J8Z39OJ7ZdkR0y45NlWGVpSLfm?usp=drive_link)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧑‍💻 About Me
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+I am a **pre-final year B.Tech student** at **Shri Ramdeobaba College of Engineering and Management**, specializing in **Artificial Intelligence and Machine Learning (AIML)**.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+I have a strong interest in **full-stack development, AI/ML applications, and cloud technologies**, with hands-on experience building real-world projects. I focus on writing clean code, creating intuitive user interfaces, and solving problems efficiently.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ✨ Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* Fully responsive design (Desktop, Tablet, Mobile)
+* Blue & Purple tech-themed UI
+* 3D card depth effects with hover animations
+* Smooth scroll-based animations
+* Animated typing effect in hero section
+* Automatic Dark/Light mode (system-based + toggle)
+* Project cards with tech stack and GitHub links
+* Resume download and contact section
+* Optimized for recruiters and professional presentation
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React.js
+* Vite
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+**Backend / APIs**
+
+* REST APIs (project-based usage)
+
+**Tools & Platforms**
+
+* Git & GitHub
+* VS Code
+* Vercel (Deployment)
+
+---
+
+## 📂 Sections Included
+
+* Home (Hero section with introduction)
+* About Me
+* Education
+* Projects
+* Skills
+* Internship Experience
+* Certifications
+* Contact Information
+
+---
+
+## 📌 Featured Projects
+
+* **SmartShop Genie** – AI-powered virtual shopping experience
+* **Virtual Lab: Data Structures & Algorithms** – Interactive DSA learning platform
+* **Atlas-Scan-Act** – Digitization of Forest Rights Act claims
+* **EmotiSense** – ML-based emotion detection system
+* **MidiHands** – Gesture-based MIDI music system
+
+(Each project includes detailed description, tech stack, and GitHub repository link.)
+
+---
+
+## 🎓 Certifications
+
+* Web Full Stack Developer Virtual Internship
+* AWS Academy Graduate – Cloud Foundations
+* Architecting Solutions on AWS
+* Meta – Database Structures and Management with MySQL
+* Data Collection and Processing with Python (University of Michigan)
+* Zscaler Zero Trust Cloud Security Virtual Internship
+* Google Project Management Professional Certificate
+* AWS Academy Graduate – Machine Learning Foundations
+* Walmart Sparkathon
+* Google AI-ML Virtual Internship
+
+---
+
+## 🚀 Deployment
+
+This portfolio is deployed using **Vercel**.
+
+### Local Setup
+
+```bash
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📬 Contact
 
-## What technologies are used for this project?
+* **Email:** [kaleprabhat24@gmail.com](mailto:kaleprabhat24@gmail.com)
+* **Phone:** +91 8625858636
+* **LinkedIn:** [https://www.linkedin.com/in/prabhat-kale-371788367/](https://www.linkedin.com/in/prabhat-kale-371788367/)
+* **GitHub:** [https://github.com/kaleprabhat24](https://github.com/kaleprabhat24)
+* **LeetCode:** [https://leetcode.com/u/prabhat_2004/](https://leetcode.com/u/prabhat_2004/)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## ©️ License
 
-## How can I deploy this project?
+This project is open-source and available for learning and reference.
+All content and design are created and maintained by **Prabhat Sudhakar Kale**.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
