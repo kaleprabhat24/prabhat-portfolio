@@ -119,7 +119,6 @@ npm run build
 ## 📬 Contact
 
 * **Email:** [kaleprabhat24@gmail.com](mailto:kaleprabhat24@gmail.com)
-* **Phone:** +91 8625858636
 * **LinkedIn:** [https://www.linkedin.com/in/prabhat-kale-371788367/](https://www.linkedin.com/in/prabhat-kale-371788367/)
 * **GitHub:** [https://github.com/kaleprabhat24](https://github.com/kaleprabhat24)
 * **LeetCode:** [https://leetcode.com/u/prabhat_2004/](https://leetcode.com/u/prabhat_2004/)
