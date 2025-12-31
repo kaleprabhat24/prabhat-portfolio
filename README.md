@@ -5,7 +5,7 @@ A modern, responsive, and interactive personal portfolio website built to showca
 
 This portfolio is designed with a **Blue & Purple tech theme**, **3D depth effects**, smooth animations, and automatic **dark/light mode** based on device preferences.
 
-🔗 **Live Website:** *( link here)*
+🔗 **Live Website:** *https://prabhat-portfolio-two.vercel.app/*
 
 📄 **Resume:** [https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link](https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link)
 
