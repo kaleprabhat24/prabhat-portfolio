@@ -58,7 +58,7 @@ export default function Hero() {
               </p>
             </div>
             <p className="text-muted-foreground max-w-xl mb-8 animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
-              Pre-final year BTech student at Shri Ramdeobaba College of Engineering and Management 
+              BTech student at Shri Ramdeobaba College of Engineering and Management 
               specializing in AI/ML. Passionate about problem-solving, learning new skills, 
               and delivering impactful solutions.
             </p>
@@ -70,7 +70,7 @@ export default function Hero() {
                 </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="border-primary/50 hover:bg-primary/10">
-                <a href="https://drive.google.com/file/d/1yeOxWKD1DCm8SHTGSlFfNrqrEqtxH4k_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1yeOxWKD1DCm8SHTGSlFfNrqrEqtxH4k_/view" target="_blank" rel="noopener noreferrer">
                   <FileText className="w-5 h-5 mr-2" />
                   View Resume
                 </a>
