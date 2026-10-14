@@ -70,7 +70,7 @@ export default function Hero() {
                 </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="border-primary/50 hover:bg-primary/10">
-                <a href="https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1yeOxWKD1DCm8SHTGSlFfNrqrEqtxH4k_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <FileText className="w-5 h-5 mr-2" />
                   View Resume
                 </a>
