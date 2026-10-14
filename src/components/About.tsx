@@ -12,7 +12,7 @@ const education = [
   {
     degree: 'B.Tech – CSE (AI/ML)',
     institution: 'Shri Ramdeobaba College of Engineering and Management',
-    score: 'CGPA 8.32',
+    score: 'CGPA 8.50',
     year: '2023 – 2027',
   },
   {
