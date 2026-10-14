@@ -119,7 +119,7 @@ export default function Contact() {
               </div>
 
               <Button asChild size="lg" className="w-full bg-gradient-primary hover:opacity-90 text-primary-foreground">
-                <a href="https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1yeOxWKD1DCm8SHTGSlFfNrqrEqtxH4k_/view" target="_blank" rel="noopener noreferrer">
                   <FileText className="w-5 h-5 mr-2" />
                   Download Resume
                 </a>
