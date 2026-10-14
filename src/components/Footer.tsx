@@ -28,7 +28,7 @@ export default function Footer() {
               <span className="text-gradient">Prabhat Kale</span>
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Pre-final year BTech student specializing in AI/ML. Building innovative 
+              BTech student specializing in AI/ML. Building innovative 
               solutions and pushing the boundaries of technology.
             </p>
           </div>
