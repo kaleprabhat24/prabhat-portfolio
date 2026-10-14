@@ -52,7 +52,7 @@ export default function About() {
               <div className="card-3d p-6">
                 <h3 className="font-display font-semibold text-xl mb-4 text-gradient">Who I Am</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  I'm a pre-final year BTech student specializing in Artificial Intelligence and 
+                  I'm a BTech student specializing in Artificial Intelligence and 
                   Machine Learning. With a strong foundation in both frontend and backend development, 
                   I love building end-to-end solutions that solve real-world problems.
                 </p>
