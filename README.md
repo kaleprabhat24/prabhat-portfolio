@@ -7,7 +7,7 @@ This portfolio is designed with a **Blue & Purple tech theme**, **3D depth effec
 
 🔗 **Live Website:** *https://prabhat-portfolio-two.vercel.app/*
 
-📄 **Resume:** [https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link](https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link)
+📄 **Resume:** [https://drive.google.com/file/d/1pNXp6ojljJh3Alyj07oZjZaj-9UPfTUt/view?usp=drive_link](https://drive.google.com/file/d/1yeOxWKD1DCm8SHTGSlFfNrqrEqtxH4k_/view?usp=sharing)
 
 📁 **Certificates:** [https://drive.google.com/drive/folders/1p60Ur7J8Z39OJ7ZdkR0y45NlWGVpSLfm?usp=drive_link](https://drive.google.com/drive/folders/1p60Ur7J8Z39OJ7ZdkR0y45NlWGVpSLfm?usp=drive_link)
 
